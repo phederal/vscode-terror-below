@@ -1,6 +1,7 @@
 {
   "name": "terror-below-theme",
-  "version": "1.0.1",
+  "displayName": "Terror Below Theme",
+  "version": "1.0.2",
   "description": "Terror below color theme",
   "publisher": "phederal",
   "icon": "icon.png",

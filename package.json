@@ -1,0 +1,35 @@
+{
+  "name": "terror-below",
+  "version": "1.0.0",
+  "description": "Terror below color theme",
+  "publisher": "phederal",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phederal/vscode-terror-below"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "terror",
+    "terror below",
+    "terror-below",
+    "terrorbelow",
+    "phederal"
+  ],
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Terror Below",
+        "uiTheme": "vs-dark",
+        "path": "./terror-below-color-theme.json"
+      }
+    ]
+  }
+}
